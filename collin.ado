@@ -101,7 +101,7 @@ program define collin, rclass
   
   
   display in green _dup(33) "-"
-  display in green " Condition Number" %15.4f in yellow `cn' " " %10.4f `cnr'
+  display in green " Condition Number" %15.4f in yellow `cn'
   display in green " Eigenvalues & Cond Index computed from " "`str1'"
   display in green " Det(correlation matrix)" %10.4f in yellow `det'
   
